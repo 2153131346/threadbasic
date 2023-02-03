@@ -14,5 +14,6 @@ public class Test {
         System.out.println("hot-fix 测试");
         System.out.println("master分支测试2");
         System.out.println("hot-fix 测试22222");
+        System.out.println("push test");
     }
 }
